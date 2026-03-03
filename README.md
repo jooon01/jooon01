@@ -19,4 +19,10 @@
 * ✍️ **Blog:** [velog.io/@jooon01](https://velog.io/@jooon01/posts)
 
 ### 📚 Recent Blog Posts
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [[SAA] 정리 노트 #1 &lpar;IAM ~ EC2&rpar;](https://velog.io/@jooon01/SAA-%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B81IAM-EC2)
+- [AWS 배포&lpar;Django.ver&rpar;](https://velog.io/@jooon01/AWS-%EB%B0%B0%ED%8F%ACDjango.ver)
+- [가상환경 설정](https://velog.io/@jooon01/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)
+- [Bandit 3일차&lpar;level 7 ~ level 10&rpar;](https://velog.io/@jooon01/Bandit-3%EC%9D%BC%EC%B0%A8level-7-level-10)
+- [Bandit 2일차&lpar;level 4 ~ level 7&rpar;](https://velog.io/@jooon01/Bandit-2%EC%9D%BC%EC%B0%A8level-4-level-13)
+<!-- BLOG-POST-LIST:END -->
