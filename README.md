@@ -1,16 +1,21 @@
-## Hi there 👋
+# ☁️ 안녕하세요. 클라우드 & 인프라 엔지니어를 꿈꾸는 김준하입니다.
 
-<!--
-**jooon01/jooon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+시스템의 안정성과 보안을 고민하며, 인프라를 코드로 관리하고 자동화하는 과정에 흥미를 느낍니다. 
+단순한 구현을 넘어 **'왜 이 기술을 선택했는지'**, **'어떻게 최적화할지'**를 끊임없이 고민하며 성장하고 있습니다.
 
-Here are some ideas to get you started:
+### 🧑🏻‍💻 About Me
+* **White Hat School 3기** 수료
+* **AWS SAA(Solutions Architect Associate)** 취득
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🔗 Links
+* ✍️ **Blog:** [velog.io/@jooon01](https://velog.io/@jooon01/posts)
+
+### 📚 Recent Blog Posts
