@@ -19,3 +19,4 @@
 * ✍️ **Blog:** [velog.io/@jooon01](https://velog.io/@jooon01/posts)
 
 ### 📚 Recent Blog Posts
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
